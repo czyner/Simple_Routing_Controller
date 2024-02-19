@@ -24,6 +24,7 @@
                 Hobbies Button
             </a>
         </button>
+        @dd($data);
     </body>
     </html>
 </div>

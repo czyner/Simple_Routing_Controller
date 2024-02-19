@@ -8,7 +8,7 @@ class SkillsController extends Controller
 {
     public function index(){
         $data=array(
-            "skills"=>"This is the Skills Page",
+            "skills"=>"Basic Knowledge in Photoshop Editing",
     );
         return view('Skills', ['data'=>$data]);
     }

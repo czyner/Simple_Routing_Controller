@@ -8,9 +8,9 @@ class HobbiesController extends Controller
 {
     public function index(){
         $data=array(
-            "h1"=>"Watching Anime",
-            "h2"=>"Grooming Fishes",
-            "h3"=>"PLaying Online Games"
+            "hobby1"=>"Watching Anime",
+            "hobby2"=>"Grooming Fishes",
+            "hobby3"=>"PLaying Online Games"
     );
         return view('Hobbies', ['data'=>$data]);
     }
