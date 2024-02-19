@@ -9,6 +9,21 @@
     </head>
     <body>
         <h1>About Me</h1>
+        <button>
+            <a href="http://127.0.0.1:8000/About_Me">
+                About Me Button
+            </a>
+        </button>
+        <button>
+            <a href="http://127.0.0.1:8000/Skills">
+                Skills Button
+            </a>
+        </button>
+        <button>
+            <a href="http://127.0.0.1:8000/Hobbies">
+                Hobbies Button
+            </a>
+        </button>
     </body>
     </html>
 </div>
